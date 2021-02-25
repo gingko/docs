@@ -1,5 +1,10 @@
 # FAQ
 
+## How do I move my documents from v1 to the new version?
+
+1. Click on the "File" button at top left:  ![](.gitbook/assets/2021-02-25_11-01.png) 
+2. Click on "New" and then "From Old Account":  ![](.gitbook/assets/2021-02-25_11-01_1.png) 
+
 ## Why is my text doubled when I save?
 
 If you're using **Grammarly**, then you may experience doubled-up text in Gingko Writer. I'd like to find a fix, but in the meantime, you can disable Grammarly on gingkowriter.com by following these instructions:
