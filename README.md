@@ -11,6 +11,16 @@ If you're using **Grammarly**, then you may experience doubled-up text in Gingko
 
 {% embed url="https://support.grammarly.com/hc/en-us/articles/115000091612-Turn-off-Grammarly-on-one-or-more-websites" %}
 
+## How do I insert images?
+
+At the moment, you'll have to insert them manually by providing a URL, like this:  
+`![](https://example.com/link/to/image.png)`
+
+To get a link like that from a DropBox image, for example, you need to [create a link](https://help.dropbox.com/files-folders/share/force-download) and the add `?raw=1` to the end of it \(otherwise you're linking to a preview page, rather than the image itself\):  
+`![](https://www.dropbox.com/s/abc123/example.png?raw=1)`
+
+Sorry, I know it's a lot of steps at the moment!
+
 ## How do I invite collaborators to my documents?
 
 Gingko Writer doesn't support collaboration yet. If this is a needed feature, you can still use the legacy https://gingkoapp.com version for collaboration and tree-sharing.
