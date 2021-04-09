@@ -25,6 +25,8 @@ Sorry, I know it's a lot of steps at the moment!
 
 Use `<!--` and `-->`. Everything between those two symbols in any card will be hidden when you print/export.
 
+![](.gitbook/assets/comments-hidden.png)
+
 ## How do I invite collaborators to my documents?
 
 Gingko Writer doesn't support collaboration yet. If this is a needed feature, you can still use the legacy https://gingkoapp.com version for collaboration and tree-sharing.
