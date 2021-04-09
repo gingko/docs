@@ -2,7 +2,7 @@
 
 ## How do I move my documents from v1 to the new version?
 
-1. Click on the "File" button at top left:  ![](.gitbook/assets/2021-02-25_11-01.png) 
+1. Click on the "File" button at top left:  ![](.gitbook/assets/new-button.png) 
 2. Click on "New" and then "From Old Account":  ![](.gitbook/assets/2021-02-25_11-01_1.png) 
 
 ## Why is my text doubled when I save?
@@ -21,6 +21,10 @@ To get a link like that from a DropBox image, for example, you need to [create a
 
 Sorry, I know it's a lot of steps at the moment!
 
+## How do I hide things from print & export?
+
+Use `<!--` and `-->`. Everything between those two symbols in any card will be hidden when you print/export.
+
 ## How do I invite collaborators to my documents?
 
 Gingko Writer doesn't support collaboration yet. If this is a needed feature, you can still use the legacy https://gingkoapp.com version for collaboration and tree-sharing.
@@ -33,7 +37,7 @@ If you want to create your own starting point for a type of document, the simple
 
 1. Export your template/starting document as JSON.
 
-![Step 1: Export template document as JSON](.gitbook/assets/screenshot_2021-01-28_18-42-19.png)
+![](.gitbook/assets/json-export.png)
 
 2. Import it whenever you want to use it as a template.
 
