@@ -35,15 +35,9 @@ I am looking forward to adding collaboration to Gingko Writer, but I don't have 
 
 ## How do I make my own custom templates?
 
-If you want to create your own starting point for a type of document, the simplest way is to:
+Simply right-click on the tree you want to use as a template, and then click "Duplicate Tree":
 
-1. Export your template/starting document as JSON.
-
-![](.gitbook/assets/json-export.png)
-
-2. Import it whenever you want to use it as a template.
-
-![Step 2: Import your template file](.gitbook/assets/import-single-json.png)
+![](.gitbook/assets/duplicate-tree.png)
 
 ## When will the old/legacy version be shut down?
 
