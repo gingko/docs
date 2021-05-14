@@ -33,6 +33,12 @@ Gingko Writer doesn't support collaboration yet. If this is a needed feature, yo
 
 I am looking forward to adding collaboration to Gingko Writer, but I don't have an estimate on how long it'll take me. I won't disable the old version until well after collaboration is added to the new one though.
 
+## LaTeX support : is it available?
+
+Gingko Writer doesn't support LaTeX yet. If this is a needed feature, you can still use the legacy https://gingkoapp.com version for LaTeX documents.
+
+I am looking forward to adding LaTeX to Gingko Writer, but I don't have an estimate on how long it'll take me. I won't disable the old version until well after it's is added to the new one though.
+
 ## How do I make my own custom templates?
 
 Simply right-click on the tree you want to use as a template, and then click "Duplicate Tree":
