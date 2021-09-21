@@ -51,3 +51,9 @@ There is no firm date for the shutdown of gingkoapp.com, but rest assured that t
 
 
 
+## What about the desktop version?
+
+I hope to bring the desktop version \(still [available here](https://github.com/gingko/client/releases)\), up to date with the latest web version _eventually_.
+
+But I've had to put it on the back-burner for some time now. If you _really_ need to have the desktop version updated, **contact me**. Knowing how your how your use case is not covered by the web app will help me in prioritizing.
+
