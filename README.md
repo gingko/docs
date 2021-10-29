@@ -1,22 +1,15 @@
 # FAQ
 
-## How do I move my documents from v1 to the new version?
+## How do I delete a tree?
 
-1. Click on the "File" button at top left:  ![](.gitbook/assets/new-button.png) 
-2. Click on "New" and then "From Old Account":  ![](.gitbook/assets/2021-02-25_11-01_1.png) 
-
-## Why is my text doubled when I save?
-
-If you're using **Grammarly**, then you may experience doubled-up text in Gingko Writer. I'd like to find a fix, but in the meantime, you can disable Grammarly on gingkowriter.com by following these instructions:
-
-{% embed url="https://support.grammarly.com/hc/en-us/articles/115000091612-Turn-off-Grammarly-on-one-or-more-websites" %}
+Right click on the tree name in the left-sidebar, and then click "Delete Tree"
 
 ## How do I insert images?
 
-At the moment, you'll have to insert them manually by providing a URL, like this:  
+At the moment, you'll have to insert them manually by providing a URL, like this:\
 `![](https://example.com/link/to/image.png)`
 
-To get a link like that from a DropBox image, for example, you need to [create a link](https://help.dropbox.com/files-folders/share/view-only-access) and the add `?raw=1` to the end of it \(otherwise you're linking to a preview page, rather than the image itself\):  
+To get a link like that from a DropBox image, for example, you need to [create a link](https://help.dropbox.com/files-folders/share/view-only-access) and the add `?raw=1` to the end of it (otherwise you're linking to a preview page, rather than the image itself):\
 `![](https://www.dropbox.com/s/abc123/example.png?raw=1)`
 
 Sorry, I know it's a lot of steps at the moment!
@@ -45,15 +38,8 @@ Simply right-click on the tree you want to use as a template, and then click "Du
 
 ![](.gitbook/assets/duplicate-tree.png)
 
-## When will the old/legacy version be shut down?
+## Why is my text doubled when I save?
 
-There is no firm date for the shutdown of gingkoapp.com, but rest assured that there will be _many_ reminders and opportunities to move your data to the new version.
+If you're using **Grammarly**, then you may experience doubled-up text in Gingko Writer. This issue comes and goes with different versions of Grammarly, so if it's happening to you, you might have to disable Grammarly on gingkowriter.com for a time, by following these instructions:
 
-
-
-## What about the desktop version?
-
-I hope to bring the desktop version \(still [available here](https://github.com/gingko/client/releases)\), up to date with the latest web version _eventually_.
-
-But I've had to put it on the back-burner for some time now. If you _really_ need to have the desktop version updated, **contact me**. Knowing how your how your use case is not covered by the web app will help me in prioritizing.
-
+{% embed url="https://support.grammarly.com/hc/en-us/articles/115000091612-Turn-off-Grammarly-on-one-or-more-websites" %}
